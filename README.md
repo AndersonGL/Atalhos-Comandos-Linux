@@ -160,7 +160,7 @@ Ideal para iniciantes e desenvolvedores que desejam dominar o terminal.
 **Licença:** MIT  
 
 
-## linux Estudos
+## Linux Estudos
 
 echo "hello World" = Saída "hello World"
 
