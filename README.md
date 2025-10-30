@@ -158,3 +158,69 @@ Ideal para iniciantes e desenvolvedores que desejam dominar o terminal.
 
 **Autor:** Anderson Gouveia Lignelli  
 **Licença:** MIT  
+
+
+## linux Estudos
+
+echo "hello World" = Saída "hello World"
+
+whoami - Para Verificar o usauario
+
+id - Informaçõe do usuario
+
+uid - Seu ID de usuário(um indentificador numérico exclusivo)
+
+gid: Seu ID de grupo principal
+
+groups: Todos os grupos dos quais vocÊ é membro
+
+root - é o superusuario -cpmo o administrador do sistema
+
+apt - é um gerenciador de pacote
+
+sudo apt update - instalação garante a versão mais recente do htop
+
+sudo apt install - instalação a lista de pacotes
+ 
+sudo apt install htop - instalação do htop htop
+
+htop - informações sobre a a atividade do computador
+
+q - para sair
+
+pwd - "imprimir o diretóro de trabalho "abre o diretorio atual 
+
+echo + ~ = abre o diretorio inical
+
+ls - listará o os arquivos do diretórios
+
+cd "nome da pasta" : Vou até ela
+
+cd .. = rertorna para o diretorio anterior
+
+touch file1.txt = Para criar um arquivo dentro da pasta
+
+echo "Hello, Linux" > file2.txt = Cria o arquivo e coloca o texto dentro
+
+echo "Hiden file"> .hiddenfile
+
+mkdir testdir = Criando um novo diretório "Pasta"
+ 
+ls -a = Monstra todo conteudo oculto
+
+ls -la = Monstra = Monstra o formato longo com exibiçao de todos arquivos
+
+ls -l = Mostra o conteudo criado com mkdir tesdir
+
+cd /home/labex/project - Lembrar
+
+
+
+ 
+
+
+
+
+
+
+
