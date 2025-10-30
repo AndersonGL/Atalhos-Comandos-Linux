@@ -164,9 +164,9 @@ Ideal para iniciantes e desenvolvedores que desejam dominar o terminal.
 
 echo "hello World" = Saída "hello World"
 
-whoami - Para Verificar o usauario
+whoami - Para Verificar o usuario
 
-id - Informaçõe do usuario
+id - Informações do usuario
 
 uid - Seu ID de usuário(um indentificador numérico exclusivo)
 
