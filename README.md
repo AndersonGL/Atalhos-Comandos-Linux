@@ -82,7 +82,7 @@ Ideal para iniciantes e desenvolvedores que desejam dominar o terminal.
 | Comando | Descrição | Exemplo |
 |----------|------------|----------|
 | `ping` | Testa conectividade com host | `ping google.com` |
-| `ifconfig` | Mostra interfaces de rede (ou `ip a`) | `ifconfig` |
+| `ipconfig` | Mostra interfaces de rede (ou `ip a`) | `ipconfig` |
 | `curl` | Faz requisições HTTP | `curl https://api.github.com` |
 | `wget` | Baixa arquivos da internet | `wget https://arquivo.zip` |
 | `netstat` | Mostra conexões e portas (deprecated: use `ss`) | `netstat -tuln` |
